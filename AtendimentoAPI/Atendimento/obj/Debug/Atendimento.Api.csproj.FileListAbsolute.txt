@@ -1,0 +1,10 @@
+C:\Users\Bruno\Documents\Projetos\Atendimento\Atendimento\Atendimento\bin\Debug\Atendimento.dll.config
+C:\Users\Bruno\Documents\Projetos\Atendimento\Atendimento\Atendimento\bin\Debug\Atendimento.dll
+C:\Users\Bruno\Documents\Projetos\Atendimento\Atendimento\Atendimento\bin\Debug\Atendimento.pdb
+C:\Users\Bruno\Documents\Projetos\Atendimento\Atendimento\Atendimento\bin\Debug\EntityFramework.dll
+C:\Users\Bruno\Documents\Projetos\Atendimento\Atendimento\Atendimento\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Bruno\Documents\Projetos\Atendimento\Atendimento\Atendimento\bin\Debug\EntityFramework.xml
+C:\Users\Bruno\Documents\Projetos\Atendimento\Atendimento\Atendimento\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Bruno\Documents\Projetos\Atendimento\Atendimento\Atendimento\obj\Debug\Atendimento.Api.csprojResolveAssemblyReference.cache
+C:\Users\Bruno\Documents\Projetos\Atendimento\Atendimento\Atendimento\obj\Debug\Atendimento.dll
+C:\Users\Bruno\Documents\Projetos\Atendimento\Atendimento\Atendimento\obj\Debug\Atendimento.pdb
